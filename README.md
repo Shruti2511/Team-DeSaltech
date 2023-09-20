@@ -99,7 +99,7 @@ The integration of the two systems will provide a comprehensive solution for mon
 
 ## Team Members
 
-Anish Dhar (TY, Mechanical)
+Anish Dhar (TY, Mechanical) \
 Advait Lad (TY, Mechanical)
 Ashutosh Mohapatra (TY, Mechanical)
 Wafeeq Kazi (TY, Mechanical)
