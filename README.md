@@ -29,7 +29,7 @@ FO is a pressure-less membrane process that uses a semi-permeable membrane to se
 **However, FO also has some limitations, including:**
 * Draw solution management: The draw solution needs to be regenerated to maintain its osmotic pressure. This can be done using a variety of methods, such as thermal evaporation or RO.
 * Membrane fouling: FO membranes are susceptible to fouling by organic matter and other contaminants in the feed solution.
-* 
+
 ![FO](https://github.com/bazingamofos/Team-DeSaltech/assets/128996946/415964cf-d7b2-477f-ba97-79ad851e25ba)
 
 ### **Reverse Osmosis (RO)**
