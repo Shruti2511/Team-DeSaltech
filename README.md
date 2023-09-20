@@ -72,6 +72,8 @@ The proposed desalination plant can be integrated with a solar-powered ozone gen
 
 **Ozone Concentration Monitoring Equipment:** The ozone concentration monitoring equipment ensures that ozone levels consistently fall within the desired range, thereby guaranteeing the effectiveness of the disinfection and water treatment processes.
 
+![ozone](https://github.com/bazingamofos/Team-DeSaltech/assets/128996946/e8a41d47-986b-4177-98fc-7db8a1cdf2bb)
+
 ## LoRa-Based Water Quality Monitoring System
 
 The LoRa-based water quality monitoring system can be implemented to monitor the desalination plant's performance and ensure that the water quality meets the required standards. The system consists of the following components:
@@ -90,6 +92,8 @@ To expand the project with LoRaWAN, the following additional components are requ
 
 LoRaWAN Gateway: The LoRaWAN gateway connects the receiver node to the LoRaWAN network.
 LoRaWAN-Compatible Devices: LoRaWAN-compatible devices, such as pH sensors, turbidity sensors, and flow meters, can be added to the network to monitor and control various aspects of the desalination plant's operation.
+
+![loRa](https://github.com/bazingamofos/Team-DeSaltech/assets/128996946/a669e85c-8d55-405f-9c78-3c42bc8b8548)
 
 ## Integration of the Two Systems
 
