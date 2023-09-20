@@ -108,4 +108,4 @@ The integration of the two systems will provide a comprehensive solution for mon
 * Ashutosh Mohapatra (TY, Mechanical)
 * Wafeeq Kazi (TY, Mechanical)
 * Flavia Saldanha (TY, Electronics)
-* Shruti Juyal (TY, Electronics)
+* ShrutiJuyal (TY, Electronics)
