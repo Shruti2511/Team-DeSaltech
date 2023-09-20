@@ -96,3 +96,12 @@ LoRaWAN-Compatible Devices: LoRaWAN-compatible devices, such as pH sensors, turb
 The two systems can be integrated by connecting the receiver node of the LoRa-based water quality monitoring system to the LoRaWAN network. This will allow the receiver node to transmit the collected data to the application server via the LoRaWAN gateway. The application server can then be used to analyze the data and generate reports on the desalination plant's performance and water quality.
 
 The integration of the two systems will provide a comprehensive solution for monitoring and managing the desalination plant. The solar-powered ozone generation system will ensure that the water is disinfected effectively, while the LoRa-based water quality monitoring system will provide real-time data on the plant's performance and water quality. This data can be used to identify and address any potential problems early on, thereby ensuring the smooth operation of the plant and the delivery of safe and clean drinking water to the community.
+
+## Team Members
+
+Anish Dhar (TY, Mechanical)
+Advait Lad (TY, Mechanical)
+Ashutosh Mohapatra (TY, Mechanical)
+Wafeeq Kazi (TY, Mechanical)
+Flavia Saldanha (TY, Electronics)
+Shruti Juyal (TY, Electronics)
